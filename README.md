@@ -1,6 +1,6 @@
 # RemoteSearchWebScraping
 Web Scraping along with remote search and pulling data
-#1.1 Requirements
+# 1.1 Requirements
 pip install selenium.
 download geckodriver.exe and add its path to environment variables.
 Requests. Downloads files and web pages from the Internet.
