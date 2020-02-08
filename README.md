@@ -7,3 +7,5 @@ Requests. Downloads files and web pages from the Internet.
 Beautiful Soup. Parses HTML, the format that web pages are written in.
 Selenium. Launches and controls a web browser. Selenium is able to fill in forms and simulate mouse clicks in this browser.
 Refer Link for identifying elements - https://selenium-python.readthedocs.io/locating-elements.html
+# 1.2 Description
+Pulls descriptive info from top 2 page results as per google search and Loads them to a table in database.
