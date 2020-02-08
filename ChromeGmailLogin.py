@@ -8,7 +8,7 @@ driver.get("http://gmail.com")
 driver.find_element_by_id("identifierId").send_keys('sumanth.plan@gmail.com')
 driver.find_element_by_id("identifierNext").click()
 time.sleep(5)
-driver.find_element_by_name("password").send_keys('badmeshah@143@')
+driver.find_element_by_name("password").send_keys('password@@')
 driver.find_element_by_id("passwordNext").click()
 time.sleep(500)
 
